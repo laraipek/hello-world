@@ -2,8 +2,8 @@
 
 md : markdown
 "#" : main header
-__what is this__
-hmmmm
+__bold intext__
+
 
 commit a new file : creates the file
 
@@ -23,4 +23,4 @@ Visual Studio Code text editor
 >inside a file
 >>View>Terminal>type:
 git clone "..."
-... = Clone or download > 
+... = Clone or download > Clone with SSH 
